@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="92" started-at="2019-04-05T13:35:50Z" finished-at="2019-04-05T13:35:50Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="92" started-at="2019-04-05T13:35:50Z" finished-at="2019-04-05T13:35:50Z">
+      <class name="mavenproject.MobileTest">
+        <test-method status="PASS" signature="trial3()[pri:0, instance:mavenproject.MobileTest@cb5822]" name="trial3" duration-ms="4" started-at="2019-04-05T13:35:50Z" finished-at="2019-04-05T13:35:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- trial3 -->
+        <test-method status="PASS" signature="trial4()[pri:0, instance:mavenproject.MobileTest@cb5822]" name="trial4" duration-ms="1" started-at="2019-04-05T13:35:50Z" finished-at="2019-04-05T13:35:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- trial4 -->
+      </class> <!-- mavenproject.MobileTest -->
+      <class name="mavenproject.WebTest">
+        <test-method status="PASS" signature="trial5()[pri:0, instance:mavenproject.WebTest@8bd1b6a]" name="trial5" duration-ms="24" started-at="2019-04-05T13:35:50Z" finished-at="2019-04-05T13:35:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- trial5 -->
+        <test-method status="PASS" signature="trial6()[pri:0, instance:mavenproject.WebTest@8bd1b6a]" name="trial6" duration-ms="3" started-at="2019-04-05T13:35:50Z" finished-at="2019-04-05T13:35:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- trial6 -->
+      </class> <!-- mavenproject.WebTest -->
+      <class name="mavenproject.RemoteTest">
+        <test-method status="PASS" signature="trial1()[pri:0, instance:mavenproject.RemoteTest@18be83e4]" name="trial1" duration-ms="3" started-at="2019-04-05T13:35:50Z" finished-at="2019-04-05T13:35:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- trial1 -->
+        <test-method status="PASS" signature="trial2()[pri:0, instance:mavenproject.RemoteTest@18be83e4]" name="trial2" duration-ms="1" started-at="2019-04-05T13:35:50Z" finished-at="2019-04-05T13:35:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- trial2 -->
+      </class> <!-- mavenproject.RemoteTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
