@@ -15,6 +15,9 @@ public class WebTest {
 	public void trial6() {
 		
 		System.out.println("This is just trial no.6");
+		System.out.println("what is this mate");
+		System.out.println("just extra lines");
+		
 	}
 	
 }
